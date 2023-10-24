@@ -1,0 +1,54 @@
+body {
+   background: gainsboro;
+}
+.cards {
+    width: 15%;
+    margin-inline: 1%;
+    margin-top: 1%;
+    margin-bottom: 1%;
+    display: flex;
+}
+p {
+    background: aliceblue;
+}
+.Header{
+    text-align: center;
+    font-family: "Malgun Gothic", serif;
+}
+.Display{
+    width: 100%;
+    height: 100%;
+    align-items: center;
+}
+.Table {
+    width: 80%;
+    border: 2px solid black;
+    display: flex;
+    justify-content: center;
+    margin-top: 30px;
+    margin-inline: auto;
+    background: darkgreen;
+}
+.Odds{
+    margin-top: 10px;
+    margin-inline: auto;
+    width: 30%;
+    height: 25%;
+    border: 2px solid black;
+}
+.Hand{
+    width: 40%;
+    border: 2px solid black;
+    justify-content: center;
+    display: flex;
+    margin-top: 10px;
+    margin-inline: auto;
+}
+img{
+    display: flex;
+}
+.Buttons{
+    border : 2px solid red;
+    display: flex;
+    margin-inline: auto;
+}
